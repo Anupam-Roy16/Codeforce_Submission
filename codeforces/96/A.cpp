@@ -1,43 +1,35 @@
-#include<bits/stdc++.h>
+
+#include <iostream>
+#include <cstdio>
+#include <string>
+
 using namespace std;
+
 int main()
 {
-    char a[101];
-    gets(a);
-    int l=strlen(a);
-    int c=0;
-    if(l<7)
-    {
-
-        cout<<"NO"<<"\n";
+    string team ;
+    int i;
+    int a=0, b=0;
+    int length;
+    cin >> team;
+    length = team.size();
+    for(i=0; i< length; i++){
+        if(team[i]== '1'){
+            a++;
+            b=0;
+        }
+        else if(team[i]== '0'){
+            b++;
+            a=0;
+        }
+        if(a >= 7 || b >= 7)
+            break;
     }
+
+    if(a >= 7 || b >= 7)
+        cout << "YES" << endl;
     else
-    {
-        for(int i=0;;i++)
-        {
-            if((a[i]=='0')&&(a[i+1]=='0')&&(a[i+2]=='0')&&(a[i+3]=='0')&&(a[i+4]=='0')&&(a[i+5]=='0')&&(a[i+6]=='0'))
-            {
-                c++;
-                cout<<"YES"<<"\n";
-                break;
-            }
-            else if((a[i]=='1')&&(a[i+1]=='1')&&(a[i+2]=='1')&&(a[i+3]=='1')&&(a[i+4]=='1')&&(a[i+5]=='1')&&(a[i+6]=='1'))
-            {
-                c++;
-                cout<<"YES"<<"\n";
-                break;
-            }
+        cout << "NO" << endl;
 
-            if((i+7)>(l-1))
-            {
-                break;
-            }
-
-        }
-        if(c==0)
-        {
-            cout<<"NO"<<"\n";
-        }
-    }
     return 0;
 }
