@@ -5614,6 +5614,22 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF39233952": {
+    "contest_id": 617,
+    "language": "GNU C",
+    "path": "codeforces\\617\\A.c",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Elephant",
+    "problem_url": "https://codeforces.com/contest/617/problem/A",
+    "submission_id": "CF39233952",
+    "submission_url": "https://codeforces.com/contest/617/submission/39233952",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/14/2018 13:13"
+  },
   "CF39692133": {
     "contest_id": 200,
     "language": "GNU C",
