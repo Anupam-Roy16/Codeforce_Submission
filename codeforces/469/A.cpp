@@ -2,26 +2,55 @@
 using namespace std;
 int main()
 {
-	int i,j,n,m,k;
-	cin>>n;
-	set<int>p;
-	cin>>m;
-	for(i=0;i<m;i++)
+    int j,n,c,d,i;
+    cin>>n;
+    cin>>c;
+    int a[c];
+    for(i=0;i<c;i++)
     {
-        cin>>j;
-        p.insert(j);
+        cin>>a[i];
     }
-    cin>>k;
-    for(i=0;i<k;i++)
+    sort(a,a+c);
+    cin>>d;
+    int b[d];
+    for(i=0;i<d;i++)
     {
-        cin>>j;
-        p.insert(j);
+        cin>>b[i];
     }
-    if(p.size()==n)
+    sort(b,b+d);
+
+    for( j=1;j<=n;j++)
     {
-        cout<<"I become the guy."<<endl;
+         int z=0,y=0;
+        for(int k=0;k<c;k++){
+        if(j==a[k])
+        {
+           z++;
+        }
+
+        }
+        if(z==0){
+        for(int p=0;p<d;p++)
+        {
+            if(j==b[p])
+            {
+                y++;
+            }
+        }
+        if(y==0)
+        {
+            cout<<"Oh, my keyboard!"<<"\n";
+            break;
+        }
+        }
+
     }
-    else{
-        cout<<"Oh, my keyboard!"<<endl;
+    if(j==(n+1))
+    {
+        cout<<"I become the guy."<<"\n";
+
     }
+
+
+    return 0;
 }
