@@ -5630,6 +5630,22 @@
     ],
     "timestamp": "Nov/26/2019 21:11"
   },
+  "CF66072204": {
+    "contest_id": 25,
+    "language": "GNU C++11",
+    "path": "codeforces\\25\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "IQ test",
+    "problem_url": "https://codeforces.com/contest/25/problem/A",
+    "submission_id": "CF66072204",
+    "submission_url": "https://codeforces.com/contest/25/submission/66072204",
+    "tags": [
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "Dec/01/2019 02:09"
+  },
   "CF69146758": {
     "contest_id": 630,
     "language": "GNU C++11",
