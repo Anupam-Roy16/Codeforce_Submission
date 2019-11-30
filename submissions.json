@@ -5630,6 +5630,23 @@
     ],
     "timestamp": "Nov/26/2019 21:11"
   },
+  "CF66019786": {
+    "contest_id": 711,
+    "language": "GNU C++11",
+    "path": "codeforces\\711\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bus to Udayland",
+    "problem_url": "https://codeforces.com/contest/711/problem/A",
+    "submission_id": "CF66019786",
+    "submission_url": "https://codeforces.com/contest/711/submission/66019786",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2019 12:56"
+  },
   "CF66072204": {
     "contest_id": 25,
     "language": "GNU C++11",
