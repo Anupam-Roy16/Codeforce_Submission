@@ -5614,6 +5614,24 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF72473836": {
+    "contest_id": 1236,
+    "language": "GNU C++11",
+    "path": "codeforces\\1236\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stones",
+    "problem_url": "https://codeforces.com/contest/1236/problem/A",
+    "submission_id": "CF72473836",
+    "submission_url": "https://codeforces.com/contest/1236/submission/72473836",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/05/2020 03:19"
+  },
   "CF72668075": {
     "contest_id": 914,
     "language": "GNU C++11",
