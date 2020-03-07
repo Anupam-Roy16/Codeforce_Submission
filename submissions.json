@@ -5614,6 +5614,24 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF72668075": {
+    "contest_id": 914,
+    "language": "GNU C++11",
+    "path": "codeforces\\914\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Perfect Squares",
+    "problem_url": "https://codeforces.com/contest/914/problem/A",
+    "submission_id": "CF72668075",
+    "submission_url": "https://codeforces.com/contest/914/submission/72668075",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Mar/07/2020 20:03"
+  },
   "CF72672157": {
     "contest_id": 1249,
     "language": "GNU C++11",
