@@ -5614,6 +5614,24 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF73348102": {
+    "contest_id": 1176,
+    "language": "GNU C++11",
+    "path": "codeforces\\1176\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Divide it!",
+    "problem_url": "https://codeforces.com/contest/1176/problem/A",
+    "submission_id": "CF73348102",
+    "submission_url": "https://codeforces.com/contest/1176/submission/73348102",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/15/2020 21:38"
+  },
   "CF73349654": {
     "contest_id": 80,
     "language": "GNU C++11",
