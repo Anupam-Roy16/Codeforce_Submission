@@ -5614,6 +5614,25 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF75795342": {
+    "contest_id": 761,
+    "language": "GNU C++11",
+    "path": "codeforces\\761\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dasha and Stairs",
+    "problem_url": "https://codeforces.com/contest/761/problem/A",
+    "submission_id": "CF75795342",
+    "submission_url": "https://codeforces.com/contest/761/submission/75795342",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/08/2020 07:43"
+  },
   "CF75801791": {
     "contest_id": 258,
     "language": "GNU C++11",
