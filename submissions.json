@@ -5614,6 +5614,24 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF76247473": {
+    "contest_id": 609,
+    "language": "GNU C++11",
+    "path": "codeforces\\609\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "USB Flash Drives",
+    "problem_url": "https://codeforces.com/contest/609/problem/A",
+    "submission_id": "CF76247473",
+    "submission_url": "https://codeforces.com/contest/609/submission/76247473",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Apr/11/2020 17:47"
+  },
   "CF76248026": {
     "contest_id": 1101,
     "language": "GNU C++11",
