@@ -5614,6 +5614,23 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF77343630": {
+    "contest_id": 439,
+    "language": "GNU C++11",
+    "path": "codeforces\\439\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Devu, the Dumb Guy",
+    "problem_url": "https://codeforces.com/contest/439/problem/B",
+    "submission_id": "CF77343630",
+    "submission_url": "https://codeforces.com/contest/439/submission/77343630",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/20/2020 15:13"
+  },
   "CF77738771": {
     "contest_id": 697,
     "language": "GNU C++11",
