@@ -5614,6 +5614,22 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF78440215": {
+    "contest_id": 994,
+    "language": "GNU C++11",
+    "path": "codeforces\\994\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fingerprints",
+    "problem_url": "https://codeforces.com/contest/994/problem/A",
+    "submission_id": "CF78440215",
+    "submission_url": "https://codeforces.com/contest/994/submission/78440215",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/29/2020 10:45"
+  },
   "CF78447704": {
     "contest_id": 1251,
     "language": "GNU C++11",
