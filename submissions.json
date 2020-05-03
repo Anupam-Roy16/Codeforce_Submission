@@ -5614,6 +5614,24 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF78912081": {
+    "contest_id": 300,
+    "language": "GNU C++11",
+    "path": "codeforces\\300\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array",
+    "problem_url": "https://codeforces.com/contest/300/problem/A",
+    "submission_id": "CF78912081",
+    "submission_url": "https://codeforces.com/contest/300/submission/78912081",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/03/2020 22:55"
+  },
   "CF78932761": {
     "contest_id": 780,
     "language": "GNU C++11",
