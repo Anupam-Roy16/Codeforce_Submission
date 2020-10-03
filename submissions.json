@@ -5614,6 +5614,22 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF94544070": {
+    "contest_id": 104,
+    "language": "GNU C++11",
+    "path": "codeforces\\104\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blackjack",
+    "problem_url": "https://codeforces.com/contest/104/problem/A",
+    "submission_id": "CF94544070",
+    "submission_url": "https://codeforces.com/contest/104/submission/94544070",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/03/2020 12:46"
+  },
   "CF94554133": {
     "contest_id": 770,
     "language": "GNU C++11",
