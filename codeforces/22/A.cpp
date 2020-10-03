@@ -2,19 +2,28 @@
 using namespace std;
 int main()
 {
-	int i,j,n,m,k;
-	set<int>p;
-	cin>>m;
-	for(i=0;i<m;i++)
+    int i,t,m,j,r=-1,w=0,p=-1,q=0;
+    cin>>t;
+    int a[t];
+    for(i=0;i<t;i++)
     {
-        cin>>j;
-        p.insert(j);
+        cin>>a[i];
     }
-    if(p.size()==1)
+    sort(a,a+t);
+    for(i=1;i<t;i++)
+    {
+        if(a[0]<a[i])
+        {
+            p=a[i];
+            break;
+        }
+    }
+    if(p==-1)
     {
         cout<<"NO"<<endl;
     }
     else{
-        cout<<*(++p.begin())<<endl;
+        cout<<p<<endl;
     }
+
 }
