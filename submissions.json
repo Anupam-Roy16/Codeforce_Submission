@@ -5614,6 +5614,22 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF95063648": {
+    "contest_id": 821,
+    "language": "GNU C++11",
+    "path": "codeforces\\821\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Okabe and Future Gadget Laboratory",
+    "problem_url": "https://codeforces.com/contest/821/problem/A",
+    "submission_id": "CF95063648",
+    "submission_url": "https://codeforces.com/contest/821/submission/95063648",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/10/2020 14:42"
+  },
   "CF95175094": {
     "contest_id": 624,
     "language": "GNU C++11",
