@@ -5614,6 +5614,22 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF95175094": {
+    "contest_id": 624,
+    "language": "GNU C++11",
+    "path": "codeforces\\624\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Save Luke",
+    "problem_url": "https://codeforces.com/contest/624/problem/A",
+    "submission_id": "CF95175094",
+    "submission_url": "https://codeforces.com/contest/624/submission/95175094",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/11/2020 11:40"
+  },
   "CF95253379": {
     "contest_id": 965,
     "language": "GNU C++11",
