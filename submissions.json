@@ -5614,6 +5614,22 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF95283264": {
+    "contest_id": 1054,
+    "language": "GNU C++11",
+    "path": "codeforces\\1054\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Elevator or Stairs?",
+    "problem_url": "https://codeforces.com/contest/1054/problem/A",
+    "submission_id": "CF95283264",
+    "submission_url": "https://codeforces.com/contest/1054/submission/95283264",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/11/2020 22:21"
+  },
   "CF95331840": {
     "contest_id": 837,
     "language": "GNU C++11",
