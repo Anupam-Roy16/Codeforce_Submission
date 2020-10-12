@@ -5614,6 +5614,23 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF95366389": {
+    "contest_id": 748,
+    "language": "GNU C++11",
+    "path": "codeforces\\748\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Santa Claus and a Place in a Class",
+    "problem_url": "https://codeforces.com/contest/748/problem/A",
+    "submission_id": "CF95366389",
+    "submission_url": "https://codeforces.com/contest/748/submission/95366389",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/12/2020 23:27"
+  },
   "CF95492651": {
     "contest_id": 245,
     "language": "GNU C++11",
