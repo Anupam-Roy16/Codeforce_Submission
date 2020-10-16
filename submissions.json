@@ -5614,6 +5614,22 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF95644309": {
+    "contest_id": 1295,
+    "language": "GNU C++11",
+    "path": "codeforces\\1295\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Display The Number",
+    "problem_url": "https://codeforces.com/contest/1295/problem/A",
+    "submission_id": "CF95644309",
+    "submission_url": "https://codeforces.com/contest/1295/submission/95644309",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Oct/16/2020 14:29"
+  },
   "CF95645354": {
     "contest_id": 1330,
     "language": "GNU C++11",
