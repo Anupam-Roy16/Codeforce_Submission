@@ -5614,6 +5614,22 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF96451980": {
+    "contest_id": 440,
+    "language": "GNU C++11",
+    "path": "codeforces\\440\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Forgotten Episode",
+    "problem_url": "https://codeforces.com/contest/440/problem/A",
+    "submission_id": "CF96451980",
+    "submission_url": "https://codeforces.com/contest/440/submission/96451980",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/23/2020 19:56"
+  },
   "CF96455858": {
     "contest_id": 172,
     "language": "GNU C++11",
