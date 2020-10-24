@@ -5614,6 +5614,22 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF96529835": {
+    "contest_id": 49,
+    "language": "GNU C++11",
+    "path": "codeforces\\49\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sleuth",
+    "problem_url": "https://codeforces.com/contest/49/problem/A",
+    "submission_id": "CF96529835",
+    "submission_url": "https://codeforces.com/contest/49/submission/96529835",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/24/2020 18:46"
+  },
   "CF96547418": {
     "contest_id": 1436,
     "language": "GNU C++11",
