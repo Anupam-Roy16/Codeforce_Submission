@@ -5614,6 +5614,22 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF96501399": {
+    "contest_id": 306,
+    "language": "GNU C++11",
+    "path": "codeforces\\306\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Candies",
+    "problem_url": "https://codeforces.com/contest/306/problem/A",
+    "submission_id": "CF96501399",
+    "submission_url": "https://codeforces.com/contest/306/submission/96501399",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/24/2020 12:58"
+  },
   "CF96508478": {
     "contest_id": 1296,
     "language": "GNU C++11",
