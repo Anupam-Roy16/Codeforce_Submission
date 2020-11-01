@@ -5613,5 +5613,21 @@
       "constructive algorithms"
     ],
     "timestamp": "Sep/11/2023 12:43"
+  },
+  "CF97293653": {
+    "contest_id": 337,
+    "language": "GNU C++11",
+    "path": "codeforces\\337\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Puzzles",
+    "problem_url": "https://codeforces.com/contest/337/problem/A",
+    "submission_id": "CF97293653",
+    "submission_url": "https://codeforces.com/contest/337/submission/97293653",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Nov/01/2020 14:40"
   }
 }
