@@ -5614,6 +5614,24 @@
     ],
     "timestamp": "Sep/11/2023 12:43"
   },
+  "CF97291619": {
+    "contest_id": 405,
+    "language": "GNU C++11",
+    "path": "codeforces\\405\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gravity Flip",
+    "problem_url": "https://codeforces.com/contest/405/problem/A",
+    "submission_id": "CF97291619",
+    "submission_url": "https://codeforces.com/contest/405/submission/97291619",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Nov/01/2020 14:10"
+  },
   "CF97293653": {
     "contest_id": 337,
     "language": "GNU C++11",
