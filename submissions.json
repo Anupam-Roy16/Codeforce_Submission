@@ -1,4 +1,22 @@
 {
+  "CF103964780": {
+    "contest_id": 1011,
+    "language": "GNU C++11",
+    "path": "codeforces\\1011\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stages",
+    "problem_url": "https://codeforces.com/contest/1011/problem/A",
+    "submission_id": "CF103964780",
+    "submission_url": "https://codeforces.com/contest/1011/submission/103964780",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jan/10/2021 20:13"
+  },
   "CF103976800": {
     "contest_id": 1132,
     "language": "GNU C++11",
