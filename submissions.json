@@ -1,4 +1,20 @@
 {
+  "CF104194224": {
+    "contest_id": 879,
+    "language": "GNU C++11",
+    "path": "codeforces\\879\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Borya's Diagnosis",
+    "problem_url": "https://codeforces.com/contest/879/problem/A",
+    "submission_id": "CF104194224",
+    "submission_url": "https://codeforces.com/contest/879/submission/104194224",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jan/13/2021 18:48"
+  },
   "CF104202446": {
     "contest_id": 586,
     "language": "GNU C++11",
