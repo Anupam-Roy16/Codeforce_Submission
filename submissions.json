@@ -1,4 +1,20 @@
 {
+  "CF104473129": {
+    "contest_id": 408,
+    "language": "GNU C++11",
+    "path": "codeforces\\408\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Line to Cashier",
+    "problem_url": "https://codeforces.com/contest/408/problem/A",
+    "submission_id": "CF104473129",
+    "submission_url": "https://codeforces.com/contest/408/submission/104473129",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jan/16/2021 12:30"
+  },
   "CF104477960": {
     "contest_id": 549,
     "language": "GNU C++11",
