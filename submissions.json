@@ -1,4 +1,20 @@
 {
+  "CF108405901": {
+    "contest_id": 847,
+    "language": "GNU C++11",
+    "path": "codeforces\\847\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "University Classes",
+    "problem_url": "https://codeforces.com/contest/847/problem/G",
+    "submission_id": "CF108405901",
+    "submission_url": "https://codeforces.com/contest/847/submission/108405901",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Feb/24/2021 19:31"
+  },
   "CF108419724": {
     "contest_id": 52,
     "language": "GNU C++11",
