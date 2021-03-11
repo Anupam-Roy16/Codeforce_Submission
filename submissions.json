@@ -1,4 +1,21 @@
 {
+  "CF109715063": {
+    "contest_id": 299,
+    "language": "GNU C++11",
+    "path": "codeforces\\299\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ksusha the Squirrel",
+    "problem_url": "https://codeforces.com/contest/299/problem/B",
+    "submission_id": "CF109715063",
+    "submission_url": "https://codeforces.com/contest/299/submission/109715063",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/11/2021 20:30"
+  },
   "CF109746444": {
     "contest_id": 805,
     "language": "GNU C++11",
