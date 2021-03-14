@@ -1,4 +1,20 @@
 {
+  "CF109985306": {
+    "contest_id": 75,
+    "language": "GNU C++11",
+    "path": "codeforces\\75\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Life Without Zeros",
+    "problem_url": "https://codeforces.com/contest/75/problem/A",
+    "submission_id": "CF109985306",
+    "submission_url": "https://codeforces.com/contest/75/submission/109985306",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Mar/14/2021 22:09"
+  },
   "CF109989387": {
     "contest_id": 352,
     "language": "GNU C++11",
