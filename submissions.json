@@ -1,4 +1,22 @@
 {
+  "CF110052665": {
+    "contest_id": 1016,
+    "language": "GNU C++11",
+    "path": "codeforces\\1016\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Death Note",
+    "problem_url": "https://codeforces.com/contest/1016/problem/A",
+    "submission_id": "CF110052665",
+    "submission_url": "https://codeforces.com/contest/1016/submission/110052665",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Mar/15/2021 22:01"
+  },
   "CF111628092": {
     "contest_id": 1495,
     "language": "GNU C++11",
