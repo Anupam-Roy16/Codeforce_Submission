@@ -1,4 +1,20 @@
 {
+  "CF112287845": {
+    "contest_id": 1223,
+    "language": "GNU C++11",
+    "path": "codeforces\\1223\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Strings Equalization",
+    "problem_url": "https://codeforces.com/contest/1223/problem/B",
+    "submission_id": "CF112287845",
+    "submission_url": "https://codeforces.com/contest/1223/submission/112287845",
+    "tags": [
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Apr/08/2021 15:13"
+  },
   "CF112349428": {
     "contest_id": 691,
     "language": "GNU C++11",
