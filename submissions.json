@@ -1,4 +1,21 @@
 {
+  "CF113601945": {
+    "contest_id": 729,
+    "language": "GNU C++11",
+    "path": "codeforces\\729\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Interview with Oleg",
+    "problem_url": "https://codeforces.com/contest/729/problem/A",
+    "submission_id": "CF113601945",
+    "submission_url": "https://codeforces.com/contest/729/submission/113601945",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Apr/20/2021 16:25"
+  },
   "CF113618001": {
     "contest_id": 622,
     "language": "GNU C++11",
