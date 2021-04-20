@@ -1,4 +1,20 @@
 {
+  "CF113618001": {
+    "contest_id": 622,
+    "language": "GNU C++11",
+    "path": "codeforces\\622\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Time",
+    "problem_url": "https://codeforces.com/contest/622/problem/B",
+    "submission_id": "CF113618001",
+    "submission_url": "https://codeforces.com/contest/622/submission/113618001",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/20/2021 19:33"
+  },
   "CF113819599": {
     "contest_id": 583,
     "language": "GNU C++11",
