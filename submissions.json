@@ -1,4 +1,20 @@
 {
+  "CF113819599": {
+    "contest_id": 583,
+    "language": "GNU C++11",
+    "path": "codeforces\\583\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Asphalting Roads",
+    "problem_url": "https://codeforces.com/contest/583/problem/A",
+    "submission_id": "CF113819599",
+    "submission_url": "https://codeforces.com/contest/583/submission/113819599",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Apr/22/2021 04:50"
+  },
   "CF114084505": {
     "contest_id": 122,
     "language": "GNU C++11",
