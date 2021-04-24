@@ -1,4 +1,21 @@
 {
+  "CF114086254": {
+    "contest_id": 616,
+    "language": "GNU C++11",
+    "path": "codeforces\\616\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dinner with Emma",
+    "problem_url": "https://codeforces.com/contest/616/problem/B",
+    "submission_id": "CF114086254",
+    "submission_url": "https://codeforces.com/contest/616/submission/114086254",
+    "tags": [
+      "games",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Apr/24/2021 13:42"
+  },
   "CF114727143": {
     "contest_id": 552,
     "language": "GNU C++11",
