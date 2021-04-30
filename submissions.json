@@ -1,4 +1,21 @@
 {
+  "CF114727143": {
+    "contest_id": 552,
+    "language": "GNU C++11",
+    "path": "codeforces\\552\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vanya and Table",
+    "problem_url": "https://codeforces.com/contest/552/problem/A",
+    "submission_id": "CF114727143",
+    "submission_url": "https://codeforces.com/contest/552/submission/114727143",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/01/2021 04:06"
+  },
   "CF114729595": {
     "contest_id": 389,
     "language": "GNU C++11",
