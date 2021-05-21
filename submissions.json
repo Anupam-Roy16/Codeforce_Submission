@@ -1,4 +1,21 @@
 {
+  "CF116940687": {
+    "contest_id": 1181,
+    "language": "GNU C++11",
+    "path": "codeforces\\1181\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chunga-Changa",
+    "problem_url": "https://codeforces.com/contest/1181/problem/A",
+    "submission_id": "CF116940687",
+    "submission_url": "https://codeforces.com/contest/1181/submission/116940687",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/21/2021 22:19"
+  },
   "CF116943926": {
     "contest_id": 699,
     "language": "GNU C++11",
