@@ -1,4 +1,22 @@
 {
+  "CF117148940": {
+    "contest_id": 822,
+    "language": "GNU C++11",
+    "path": "codeforces\\822\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Crossword solving",
+    "problem_url": "https://codeforces.com/contest/822/problem/B",
+    "submission_id": "CF117148940",
+    "submission_url": "https://codeforces.com/contest/822/submission/117148940",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "May/24/2021 14:23"
+  },
   "CF117330352": {
     "contest_id": 844,
     "language": "GNU C++11",
