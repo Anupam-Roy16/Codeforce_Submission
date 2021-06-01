@@ -1,4 +1,22 @@
 {
+  "CF118066107": {
+    "contest_id": 4,
+    "language": "GNU C++11",
+    "path": "codeforces\\4\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Registration System",
+    "problem_url": "https://codeforces.com/contest/4/problem/C",
+    "submission_id": "CF118066107",
+    "submission_url": "https://codeforces.com/contest/4/submission/118066107",
+    "tags": [
+      "data structures",
+      "hashing",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jun/01/2021 15:40"
+  },
   "CF118123855": {
     "contest_id": 903,
     "language": "GNU C++11",
