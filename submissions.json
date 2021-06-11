@@ -1,4 +1,21 @@
 {
+  "CF119112978": {
+    "contest_id": 259,
+    "language": "GNU C++11",
+    "path": "codeforces\\259\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little Elephant and Chess",
+    "problem_url": "https://codeforces.com/contest/259/problem/A",
+    "submission_id": "CF119112978",
+    "submission_url": "https://codeforces.com/contest/259/submission/119112978",
+    "tags": [
+      "brute force",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Jun/11/2021 10:07"
+  },
   "CF119180656": {
     "contest_id": 622,
     "language": "GNU C++11",
