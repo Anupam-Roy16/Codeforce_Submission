@@ -1,4 +1,22 @@
 {
+  "CF121612428": {
+    "contest_id": 1543,
+    "language": "GNU C++11",
+    "path": "codeforces\\1543\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Exciting Bets",
+    "problem_url": "https://codeforces.com/contest/1543/problem/A",
+    "submission_id": "CF121612428",
+    "submission_url": "https://codeforces.com/contest/1543/submission/121612428",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jul/07/2021 21:28"
+  },
   "CF121639400": {
     "contest_id": 1543,
     "language": "GNU C++11",
