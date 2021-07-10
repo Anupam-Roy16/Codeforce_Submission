@@ -1,4 +1,21 @@
 {
+  "CF121964238": {
+    "contest_id": 1547,
+    "language": "GNU C++11",
+    "path": "codeforces\\1547\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shortest Path with Obstacle",
+    "problem_url": "https://codeforces.com/contest/1547/problem/A",
+    "submission_id": "CF121964238",
+    "submission_url": "https://codeforces.com/contest/1547/submission/121964238",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/10/2021 21:40"
+  },
   "CF121983052": {
     "contest_id": 1547,
     "language": "GNU C++11",
