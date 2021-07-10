@@ -1,4 +1,22 @@
 {
+  "CF121983052": {
+    "contest_id": 1547,
+    "language": "GNU C++11",
+    "path": "codeforces\\1547\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Alphabetical Strings",
+    "problem_url": "https://codeforces.com/contest/1547/problem/B",
+    "submission_id": "CF121983052",
+    "submission_url": "https://codeforces.com/contest/1547/submission/121983052",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/10/2021 22:13"
+  },
   "CF122096192": {
     "contest_id": 1546,
     "language": "GNU C++11",
