@@ -1,4 +1,21 @@
 {
+  "CF122373838": {
+    "contest_id": 48,
+    "language": "GNU C++11",
+    "path": "codeforces\\48\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Land Lot",
+    "problem_url": "https://codeforces.com/contest/48/problem/B",
+    "submission_id": "CF122373838",
+    "submission_url": "https://codeforces.com/contest/48/submission/122373838",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/14/2021 00:12"
+  },
   "CF122475926": {
     "contest_id": 1550,
     "language": "GNU C++11",
