@@ -1,4 +1,22 @@
 {
+  "CF123093099": {
+    "contest_id": 1471,
+    "language": "GNU C++11",
+    "path": "codeforces\\1471\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Partition",
+    "problem_url": "https://codeforces.com/contest/1471/problem/A",
+    "submission_id": "CF123093099",
+    "submission_url": "https://codeforces.com/contest/1471/submission/123093099",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jul/20/2021 15:57"
+  },
   "CF123113683": {
     "contest_id": 199,
     "language": "GNU C++11",
