@@ -1,4 +1,22 @@
 {
+  "CF123419035": {
+    "contest_id": 299,
+    "language": "GNU C++11",
+    "path": "codeforces\\299\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ksusha and Array",
+    "problem_url": "https://codeforces.com/contest/299/problem/A",
+    "submission_id": "CF123419035",
+    "submission_url": "https://codeforces.com/contest/299/submission/123419035",
+    "tags": [
+      "brute force",
+      "number theory",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Jul/23/2021 15:54"
+  },
   "CF123499913": {
     "contest_id": 1551,
     "language": "GNU C++11",
