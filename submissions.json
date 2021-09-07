@@ -1,4 +1,20 @@
 {
+  "CF128094713": {
+    "contest_id": 1560,
+    "language": "GNU C++14",
+    "path": "codeforces\\1560\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dislike of Threes",
+    "problem_url": "https://codeforces.com/contest/1560/problem/A",
+    "submission_id": "CF128094713",
+    "submission_url": "https://codeforces.com/contest/1560/submission/128094713",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/07/2021 10:58"
+  },
   "CF128232254": {
     "contest_id": 1569,
     "language": "GNU C++14",
