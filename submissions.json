@@ -1,4 +1,21 @@
 {
+  "CF141449930": {
+    "contest_id": 1608,
+    "language": "GNU C++14",
+    "path": "codeforces\\1608\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find Array",
+    "problem_url": "https://codeforces.com/contest/1608/problem/A",
+    "submission_id": "CF141449930",
+    "submission_url": "https://codeforces.com/contest/1608/submission/141449930",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/03/2022 10:35"
+  },
   "CF141490460": {
     "contest_id": 1615,
     "language": "GNU C++14",
