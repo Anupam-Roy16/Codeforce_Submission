@@ -1,4 +1,21 @@
 {
+  "CF147752587": {
+    "contest_id": 810,
+    "language": "GNU C++14",
+    "path": "codeforces\\810\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Summer sell-off",
+    "problem_url": "https://codeforces.com/contest/810/problem/B",
+    "submission_id": "CF147752587",
+    "submission_url": "https://codeforces.com/contest/810/submission/147752587",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Feb/26/2022 15:52"
+  },
   "CF148215108": {
     "contest_id": 1513,
     "language": "GNU C++14",
