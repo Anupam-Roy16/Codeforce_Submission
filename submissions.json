@@ -1,4 +1,21 @@
 {
+  "CF150772321": {
+    "contest_id": 1656,
+    "language": "GNU C++14",
+    "path": "codeforces\\1656\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Good Pairs",
+    "problem_url": "https://codeforces.com/contest/1656/problem/A",
+    "submission_id": "CF150772321",
+    "submission_url": "https://codeforces.com/contest/1656/submission/150772321",
+    "tags": [
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Mar/24/2022 21:36"
+  },
   "CF151018361": {
     "contest_id": 1056,
     "language": "GNU C++14",
