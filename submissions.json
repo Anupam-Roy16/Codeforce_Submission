@@ -1,4 +1,20 @@
 {
+  "CF150684226": {
+    "contest_id": 302,
+    "language": "GNU C++14",
+    "path": "codeforces\\302\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Eugeny and Array",
+    "problem_url": "https://codeforces.com/contest/302/problem/A",
+    "submission_id": "CF150684226",
+    "submission_url": "https://codeforces.com/contest/302/submission/150684226",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/24/2022 14:46"
+  },
   "CF150772321": {
     "contest_id": 1656,
     "language": "GNU C++14",
