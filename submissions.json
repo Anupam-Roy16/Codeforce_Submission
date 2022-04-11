@@ -1,4 +1,22 @@
 {
+  "CF153365937": {
+    "contest_id": 1541,
+    "language": "GNU C++14",
+    "path": "codeforces\\1541\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pretty Permutations",
+    "problem_url": "https://codeforces.com/contest/1541/problem/A",
+    "submission_id": "CF153365937",
+    "submission_url": "https://codeforces.com/contest/1541/submission/153365937",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/11/2022 15:35"
+  },
   "CF153394511": {
     "contest_id": 1650,
     "language": "GNU C++14",
