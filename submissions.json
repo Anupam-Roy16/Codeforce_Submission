@@ -1,4 +1,21 @@
 {
+  "CF172634332": {
+    "contest_id": 894,
+    "language": "Python 3",
+    "path": "codeforces\\894\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "QAQ",
+    "problem_url": "https://codeforces.com/contest/894/problem/A",
+    "submission_id": "CF172634332",
+    "submission_url": "https://codeforces.com/contest/894/submission/172634332",
+    "tags": [
+      "brute force",
+      "dp",
+      "*800"
+    ],
+    "timestamp": "Sep/19/2022 14:45"
+  },
   "CF172650312": {
     "contest_id": 1626,
     "language": "Python 3",
