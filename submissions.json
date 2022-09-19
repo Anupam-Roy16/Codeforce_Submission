@@ -1,4 +1,21 @@
 {
+  "CF172696589": {
+    "contest_id": 1733,
+    "language": "Python 3",
+    "path": "codeforces\\1733\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Consecutive Sum",
+    "problem_url": "https://codeforces.com/contest/1733/problem/A",
+    "submission_id": "CF172696589",
+    "submission_url": "https://codeforces.com/contest/1733/submission/172696589",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Sep/19/2022 21:19"
+  },
   "CF173022454": {
     "contest_id": 1417,
     "language": "Python 3",
