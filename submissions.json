@@ -1,4 +1,20 @@
 {
+  "CF173201841": {
+    "contest_id": 1734,
+    "language": "GNU C++17",
+    "path": "codeforces\\1734\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bright, Nice, Brilliant",
+    "problem_url": "https://codeforces.com/contest/1734/problem/B",
+    "submission_id": "CF173201841",
+    "submission_url": "https://codeforces.com/contest/1734/submission/173201841",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Sep/23/2022 19:12"
+  },
   "CF173453081": {
     "contest_id": 1730,
     "language": "Python 3",
