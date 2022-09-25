@@ -1,4 +1,22 @@
 {
+  "CF173453081": {
+    "contest_id": 1730,
+    "language": "Python 3",
+    "path": "codeforces\\1730\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Planets",
+    "problem_url": "https://codeforces.com/contest/1730/problem/A",
+    "submission_id": "CF173453081",
+    "submission_url": "https://codeforces.com/contest/1730/submission/173453081",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Sep/25/2022 20:55"
+  },
   "CF174112558": {
     "contest_id": 1738,
     "language": "Python 3",
