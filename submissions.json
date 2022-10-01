@@ -1,4 +1,20 @@
 {
+  "CF174244878": {
+    "contest_id": 1729,
+    "language": "Python 3",
+    "path": "codeforces\\1729\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Elevators",
+    "problem_url": "https://codeforces.com/contest/1729/problem/A",
+    "submission_id": "CF174244878",
+    "submission_url": "https://codeforces.com/contest/1729/submission/174244878",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/01/2022 17:56"
+  },
   "CF176569313": {
     "contest_id": 1744,
     "language": "Python 3",
