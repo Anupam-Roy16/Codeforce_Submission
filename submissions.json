@@ -1,4 +1,21 @@
 {
+  "CF176569313": {
+    "contest_id": 1744,
+    "language": "Python 3",
+    "path": "codeforces\\1744\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Number Replacement",
+    "problem_url": "https://codeforces.com/contest/1744/problem/A",
+    "submission_id": "CF176569313",
+    "submission_url": "https://codeforces.com/contest/1744/submission/176569313",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/16/2022 22:09"
+  },
   "CF176588430": {
     "contest_id": 1744,
     "language": "Python 3",
