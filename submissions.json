@@ -1,4 +1,21 @@
 {
+  "CF176588430": {
+    "contest_id": 1744,
+    "language": "Python 3",
+    "path": "codeforces\\1744\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Even-Odd Increments ",
+    "problem_url": "https://codeforces.com/contest/1744/problem/B",
+    "submission_id": "CF176588430",
+    "submission_url": "https://codeforces.com/contest/1744/submission/176588430",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/16/2022 22:44"
+  },
   "CF176722832": {
     "contest_id": 1743,
     "language": "Python 3",
