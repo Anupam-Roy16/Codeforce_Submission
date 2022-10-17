@@ -1,4 +1,23 @@
 {
+  "CF176722832": {
+    "contest_id": 1743,
+    "language": "Python 3",
+    "path": "codeforces\\1743\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Password",
+    "problem_url": "https://codeforces.com/contest/1743/problem/A",
+    "submission_id": "CF176722832",
+    "submission_url": "https://codeforces.com/contest/1743/submission/176722832",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/17/2022 20:56"
+  },
   "CF176742251": {
     "contest_id": 1743,
     "language": "Python 3",
