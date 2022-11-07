@@ -1,4 +1,23 @@
 {
+  "CF179887450": {
+    "contest_id": 1609,
+    "language": "Python 3",
+    "path": "codeforces\\1609\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Divide and Multiply",
+    "problem_url": "https://codeforces.com/contest/1609/problem/A",
+    "submission_id": "CF179887450",
+    "submission_url": "https://codeforces.com/contest/1609/submission/179887450",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Nov/07/2022 11:30"
+  },
   "CF179980277": {
     "contest_id": 1733,
     "language": "Python 3",
