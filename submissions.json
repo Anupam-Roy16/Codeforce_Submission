@@ -1,4 +1,21 @@
 {
+  "CF179980277": {
+    "contest_id": 1733,
+    "language": "Python 3",
+    "path": "codeforces\\1733\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rule of League",
+    "problem_url": "https://codeforces.com/contest/1733/problem/B",
+    "submission_id": "CF179980277",
+    "submission_url": "https://codeforces.com/contest/1733/submission/179980277",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/07/2022 20:27"
+  },
   "CF180627727": {
     "contest_id": 1748,
     "language": "Python 3",
