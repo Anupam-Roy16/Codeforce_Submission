@@ -1,4 +1,20 @@
 {
+  "CF180627727": {
+    "contest_id": 1748,
+    "language": "Python 3",
+    "path": "codeforces\\1748\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Ultimate Square",
+    "problem_url": "https://codeforces.com/contest/1748/problem/A",
+    "submission_id": "CF180627727",
+    "submission_url": "https://codeforces.com/contest/1748/submission/180627727",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/12/2022 21:01"
+  },
   "CF182218834": {
     "contest_id": 1760,
     "language": "Python 3",
