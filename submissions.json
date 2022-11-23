@@ -1,4 +1,21 @@
 {
+  "CF182219122": {
+    "contest_id": 1760,
+    "language": "Python 3",
+    "path": "codeforces\\1760\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Medium Number",
+    "problem_url": "https://codeforces.com/contest/1760/problem/A",
+    "submission_id": "CF182219122",
+    "submission_url": "https://codeforces.com/contest/1760/submission/182219122",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/23/2022 13:57"
+  },
   "CF182222671": {
     "contest_id": 1760,
     "language": "Python 3",
