@@ -1,4 +1,21 @@
 {
+  "CF182269774": {
+    "contest_id": 1761,
+    "language": "Python 3",
+    "path": "codeforces\\1761\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Permutations",
+    "problem_url": "https://codeforces.com/contest/1761/problem/A",
+    "submission_id": "CF182269774",
+    "submission_url": "https://codeforces.com/contest/1761/submission/182269774",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Nov/23/2022 22:00"
+  },
   "CF183041833": {
     "contest_id": 1742,
     "language": "Python 3",
