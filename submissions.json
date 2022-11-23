@@ -1,4 +1,22 @@
 {
+  "CF182222671": {
+    "contest_id": 1760,
+    "language": "Python 3",
+    "path": "codeforces\\1760\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Advantage",
+    "problem_url": "https://codeforces.com/contest/1760/problem/C",
+    "submission_id": "CF182222671",
+    "submission_url": "https://codeforces.com/contest/1760/submission/182222671",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/23/2022 14:32"
+  },
   "CF182269774": {
     "contest_id": 1761,
     "language": "Python 3",
