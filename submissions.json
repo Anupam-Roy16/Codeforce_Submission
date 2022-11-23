@@ -1,4 +1,22 @@
 {
+  "CF182218834": {
+    "contest_id": 1760,
+    "language": "Python 3",
+    "path": "codeforces\\1760\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Atilla's Favorite Problem",
+    "problem_url": "https://codeforces.com/contest/1760/problem/B",
+    "submission_id": "CF182218834",
+    "submission_url": "https://codeforces.com/contest/1760/submission/182218834",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/23/2022 13:55"
+  },
   "CF182219122": {
     "contest_id": 1760,
     "language": "Python 3",
