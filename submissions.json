@@ -1,4 +1,22 @@
 {
+  "CF183048829": {
+    "contest_id": 1742,
+    "language": "Python 3",
+    "path": "codeforces\\1742\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Increasing",
+    "problem_url": "https://codeforces.com/contest/1742/problem/B",
+    "submission_id": "CF183048829",
+    "submission_url": "https://codeforces.com/contest/1742/submission/183048829",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/28/2022 23:12"
+  },
   "CF187784017": {
     "contest_id": 1779,
     "language": "Python 3",
