@@ -1,4 +1,20 @@
 {
+  "CF183041833": {
+    "contest_id": 1742,
+    "language": "Python 3",
+    "path": "codeforces\\1742\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum",
+    "problem_url": "https://codeforces.com/contest/1742/problem/A",
+    "submission_id": "CF183041833",
+    "submission_url": "https://codeforces.com/contest/1742/submission/183041833",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/28/2022 22:02"
+  },
   "CF183048829": {
     "contest_id": 1742,
     "language": "Python 3",
