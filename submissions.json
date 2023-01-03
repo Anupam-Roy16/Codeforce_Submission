@@ -1,4 +1,22 @@
 {
+  "CF187784017": {
+    "contest_id": 1779,
+    "language": "Python 3",
+    "path": "codeforces\\1779\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hall of Fame",
+    "problem_url": "https://codeforces.com/contest/1779/problem/A",
+    "submission_id": "CF187784017",
+    "submission_url": "https://codeforces.com/contest/1779/submission/187784017",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/03/2023 21:28"
+  },
   "CF188669061": {
     "contest_id": 1783,
     "language": "Python 3",
