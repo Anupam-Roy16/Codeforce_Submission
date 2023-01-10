@@ -1,4 +1,22 @@
 {
+  "CF188669061": {
+    "contest_id": 1783,
+    "language": "Python 3",
+    "path": "codeforces\\1783\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Make it Beautiful",
+    "problem_url": "https://codeforces.com/contest/1783/problem/A",
+    "submission_id": "CF188669061",
+    "submission_url": "https://codeforces.com/contest/1783/submission/188669061",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/10/2023 13:43"
+  },
   "CF188722597": {
     "contest_id": 1775,
     "language": "Python 3",
