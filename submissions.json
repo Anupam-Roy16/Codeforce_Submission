@@ -1,4 +1,21 @@
 {
+  "CF188726571": {
+    "contest_id": 1775,
+    "language": "Python 3",
+    "path": "codeforces\\1775\\A2.py",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Gardener and the Capybaras (hard version)",
+    "problem_url": "https://codeforces.com/contest/1775/problem/A2",
+    "submission_id": "CF188726571",
+    "submission_url": "https://codeforces.com/contest/1775/submission/188726571",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jan/10/2023 18:22"
+  },
   "CF189064469": {
     "contest_id": 1768,
     "language": "Python 3",
