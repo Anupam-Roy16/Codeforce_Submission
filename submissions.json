@@ -1,4 +1,21 @@
 {
+  "CF189074992": {
+    "contest_id": 1768,
+    "language": "Python 3",
+    "path": "codeforces\\1768\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Quick Sort",
+    "problem_url": "https://codeforces.com/contest/1768/problem/B",
+    "submission_id": "CF189074992",
+    "submission_url": "https://codeforces.com/contest/1768/submission/189074992",
+    "tags": [
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jan/13/2023 14:08"
+  },
   "CF189207312": {
     "contest_id": 1669,
     "language": "Python 3",
