@@ -1,4 +1,21 @@
 {
+  "CF190350653": {
+    "contest_id": 1792,
+    "language": "Python 3",
+    "path": "codeforces\\1792\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "GamingForces",
+    "problem_url": "https://codeforces.com/contest/1792/problem/A",
+    "submission_id": "CF190350653",
+    "submission_url": "https://codeforces.com/contest/1792/submission/190350653",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/24/2023 21:10"
+  },
   "CF190530104": {
     "contest_id": 1780,
     "language": "Python 3",
