@@ -1,4 +1,22 @@
 {
+  "CF191994029": {
+    "contest_id": 1791,
+    "language": "Python 3",
+    "path": "codeforces\\1791\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Distinct Split",
+    "problem_url": "https://codeforces.com/contest/1791/problem/D",
+    "submission_id": "CF191994029",
+    "submission_url": "https://codeforces.com/contest/1791/submission/191994029",
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Feb/03/2023 22:14"
+  },
   "CF192304725": {
     "contest_id": 1786,
     "language": "Python 3",
