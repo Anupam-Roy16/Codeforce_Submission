@@ -1,4 +1,22 @@
 {
+  "CF195333881": {
+    "contest_id": 1796,
+    "language": "Python 3",
+    "path": "codeforces\\1796\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Typical Interview Problem",
+    "problem_url": "https://codeforces.com/contest/1796/problem/A",
+    "submission_id": "CF195333881",
+    "submission_url": "https://codeforces.com/contest/1796/submission/195333881",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Feb/28/2023 21:54"
+  },
   "CF198610576": {
     "contest_id": 1807,
     "language": "Python 3",
