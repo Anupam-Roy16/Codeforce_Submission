@@ -1,4 +1,20 @@
 {
+  "CF198610576": {
+    "contest_id": 1807,
+    "language": "Python 3",
+    "path": "codeforces\\1807\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plus or Minus",
+    "problem_url": "https://codeforces.com/contest/1807/problem/A",
+    "submission_id": "CF198610576",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198610576",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/22/2023 17:15"
+  },
   "CF198611797": {
     "contest_id": 1807,
     "language": "Python 3",
