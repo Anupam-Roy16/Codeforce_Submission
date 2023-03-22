@@ -1,4 +1,20 @@
 {
+  "CF198611797": {
+    "contest_id": 1807,
+    "language": "Python 3",
+    "path": "codeforces\\1807\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Grab the Candies",
+    "problem_url": "https://codeforces.com/contest/1807/problem/B",
+    "submission_id": "CF198611797",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198611797",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/22/2023 17:25"
+  },
   "CF198708824": {
     "contest_id": 1807,
     "language": "Python 3",
