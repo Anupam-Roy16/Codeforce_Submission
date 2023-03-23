@@ -1,4 +1,22 @@
 {
+  "CF198708824": {
+    "contest_id": 1807,
+    "language": "Python 3",
+    "path": "codeforces\\1807\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Find and Replace",
+    "problem_url": "https://codeforces.com/contest/1807/problem/C",
+    "submission_id": "CF198708824",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198708824",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/23/2023 13:55"
+  },
   "CF199526784": {
     "contest_id": 1772,
     "language": "Python 3",
