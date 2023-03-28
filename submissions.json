@@ -1,4 +1,20 @@
 {
+  "CF199526784": {
+    "contest_id": 1772,
+    "language": "Python 3",
+    "path": "codeforces\\1772\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A+B?",
+    "problem_url": "https://codeforces.com/contest/1772/problem/A",
+    "submission_id": "CF199526784",
+    "submission_url": "https://codeforces.com/contest/1772/submission/199526784",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/28/2023 17:39"
+  },
   "CF199529051": {
     "contest_id": 1675,
     "language": "Python 3",
