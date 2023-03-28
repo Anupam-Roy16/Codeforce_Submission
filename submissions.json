@@ -1,4 +1,22 @@
 {
+  "CF199530274": {
+    "contest_id": 1691,
+    "language": "Python 3",
+    "path": "codeforces\\1691\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beat The Odds",
+    "problem_url": "https://codeforces.com/contest/1691/problem/A",
+    "submission_id": "CF199530274",
+    "submission_url": "https://codeforces.com/contest/1691/submission/199530274",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/28/2023 18:06"
+  },
   "CF201119822": {
     "contest_id": 1811,
     "language": "Python 3",
