@@ -1,4 +1,21 @@
 {
+  "CF199529051": {
+    "contest_id": 1675,
+    "language": "Python 3",
+    "path": "codeforces\\1675\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Food for Animals",
+    "problem_url": "https://codeforces.com/contest/1675/problem/A",
+    "submission_id": "CF199529051",
+    "submission_url": "https://codeforces.com/contest/1675/submission/199529051",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/28/2023 17:57"
+  },
   "CF199530274": {
     "contest_id": 1691,
     "language": "Python 3",
