@@ -1,4 +1,21 @@
 {
+  "CF201119822": {
+    "contest_id": 1811,
+    "language": "Python 3",
+    "path": "codeforces\\1811\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Conveyor Belts",
+    "problem_url": "https://codeforces.com/contest/1811/problem/B",
+    "submission_id": "CF201119822",
+    "submission_url": "https://codeforces.com/contest/1811/submission/201119822",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/07/2023 15:35"
+  },
   "CF205139712": {
     "contest_id": 1519,
     "language": "Python 3",
