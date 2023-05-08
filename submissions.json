@@ -1,4 +1,21 @@
 {
+  "CF205139712": {
+    "contest_id": 1519,
+    "language": "Python 3",
+    "path": "codeforces\\1519\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Cake Is a Lie",
+    "problem_url": "https://codeforces.com/contest/1519/problem/B",
+    "submission_id": "CF205139712",
+    "submission_url": "https://codeforces.com/contest/1519/submission/205139712",
+    "tags": [
+      "dp",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/08/2023 21:56"
+  },
   "CF205176596": {
     "contest_id": 1714,
     "language": "Python 3",
