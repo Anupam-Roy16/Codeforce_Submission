@@ -1,4 +1,20 @@
 {
+  "CF205746779": {
+    "contest_id": 1554,
+    "language": "Python 3",
+    "path": "codeforces\\1554\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cherry",
+    "problem_url": "https://codeforces.com/contest/1554/problem/A",
+    "submission_id": "CF205746779",
+    "submission_url": "https://codeforces.com/contest/1554/submission/205746779",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/13/2023 23:15"
+  },
   "CF205775340": {
     "contest_id": 1519,
     "language": "Python 3",
