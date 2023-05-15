@@ -1,4 +1,22 @@
 {
+  "CF205933592": {
+    "contest_id": 1714,
+    "language": "Python 3",
+    "path": "codeforces\\1714\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Remove Prefix",
+    "problem_url": "https://codeforces.com/contest/1714/problem/B",
+    "submission_id": "CF205933592",
+    "submission_url": "https://codeforces.com/contest/1714/submission/205933592",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/15/2023 08:14"
+  },
   "CF205935226": {
     "contest_id": 1633,
     "language": "Python 3",
