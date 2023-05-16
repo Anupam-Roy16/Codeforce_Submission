@@ -1,4 +1,25 @@
 {
+  "CF206059659": {
+    "contest_id": 1676,
+    "language": "Python 3",
+    "path": "codeforces\\1676\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Most Similar Words",
+    "problem_url": "https://codeforces.com/contest/1676/problem/C",
+    "submission_id": "CF206059659",
+    "submission_url": "https://codeforces.com/contest/1676/submission/206059659",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "implementation",
+      "math",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/16/2023 13:52"
+  },
   "CF207056224": {
     "contest_id": 1829,
     "language": "Python 3",
