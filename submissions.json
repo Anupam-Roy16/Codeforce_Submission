@@ -1,4 +1,21 @@
 {
+  "CF206052548": {
+    "contest_id": 1721,
+    "language": "Python 3",
+    "path": "codeforces\\1721\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Image",
+    "problem_url": "https://codeforces.com/contest/1721/problem/A",
+    "submission_id": "CF206052548",
+    "submission_url": "https://codeforces.com/contest/1721/submission/206052548",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2023 12:19"
+  },
   "CF206059659": {
     "contest_id": 1676,
     "language": "Python 3",
