@@ -1,4 +1,21 @@
 {
+  "CF207056680": {
+    "contest_id": 1829,
+    "language": "Python 3",
+    "path": "codeforces\\1829\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Love Story",
+    "problem_url": "https://codeforces.com/contest/1829/problem/A",
+    "submission_id": "CF207056680",
+    "submission_url": "https://codeforces.com/contest/1829/submission/207056680",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/24/2023 20:45"
+  },
   "CF207077173": {
     "contest_id": 1759,
     "language": "Python 3",
