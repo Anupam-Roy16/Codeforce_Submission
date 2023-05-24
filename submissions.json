@@ -1,4 +1,21 @@
 {
+  "CF207077173": {
+    "contest_id": 1759,
+    "language": "Python 3",
+    "path": "codeforces\\1759\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yes-Yes?",
+    "problem_url": "https://codeforces.com/contest/1759/problem/A",
+    "submission_id": "CF207077173",
+    "submission_url": "https://codeforces.com/contest/1759/submission/207077173",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/25/2023 00:30"
+  },
   "CF207104097": {
     "contest_id": 1807,
     "language": "Python 3",
