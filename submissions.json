@@ -1,4 +1,20 @@
 {
+  "CF207056224": {
+    "contest_id": 1829,
+    "language": "Python 3",
+    "path": "codeforces\\1829\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Blank Space",
+    "problem_url": "https://codeforces.com/contest/1829/problem/B",
+    "submission_id": "CF207056224",
+    "submission_url": "https://codeforces.com/contest/1829/submission/207056224",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/24/2023 20:40"
+  },
   "CF207056680": {
     "contest_id": 1829,
     "language": "Python 3",
