@@ -1,4 +1,24 @@
 {
+  "CF207104254": {
+    "contest_id": 1807,
+    "language": "Python 3",
+    "path": "codeforces\\1807\\G2.py",
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Subsequence Addition (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1807/problem/G2",
+    "submission_id": "CF207104254",
+    "submission_url": "https://codeforces.com/contest/1807/submission/207104254",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "May/25/2023 11:21"
+  },
   "CF207574875": {
     "contest_id": 1175,
     "language": "Python 3",
