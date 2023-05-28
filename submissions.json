@@ -1,4 +1,21 @@
 {
+  "CF207574875": {
+    "contest_id": 1175,
+    "language": "Python 3",
+    "path": "codeforces\\1175\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "From Hero to Zero",
+    "problem_url": "https://codeforces.com/contest/1175/problem/A",
+    "submission_id": "CF207574875",
+    "submission_url": "https://codeforces.com/contest/1175/submission/207574875",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/28/2023 19:39"
+  },
   "CF207673283": {
     "contest_id": 1831,
     "language": "Python 3",
