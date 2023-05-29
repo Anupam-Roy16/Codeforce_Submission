@@ -1,4 +1,20 @@
 {
+  "CF207753842": {
+    "contest_id": 1696,
+    "language": "Python 3",
+    "path": "codeforces\\1696\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "NIT Destroys the Universe",
+    "problem_url": "https://codeforces.com/contest/1696/problem/B",
+    "submission_id": "CF207753842",
+    "submission_url": "https://codeforces.com/contest/1696/submission/207753842",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "May/29/2023 18:20"
+  },
   "CF222191374": {
     "contest_id": 1857,
     "language": "Python 3",
