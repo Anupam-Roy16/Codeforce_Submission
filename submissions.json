@@ -1,4 +1,22 @@
 {
+  "CF222191374": {
+    "contest_id": 1857,
+    "language": "Python 3",
+    "path": "codeforces\\1857\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Rounding",
+    "problem_url": "https://codeforces.com/contest/1857/problem/B",
+    "submission_id": "CF222191374",
+    "submission_url": "https://codeforces.com/contest/1857/submission/222191374",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Sep/07/2023 16:52"
+  },
   "CF222201032": {
     "contest_id": 1857,
     "language": "Python 3",
