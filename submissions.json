@@ -1,4 +1,21 @@
 {
+  "CF222201032": {
+    "contest_id": 1857,
+    "language": "Python 3",
+    "path": "codeforces\\1857\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Coloring",
+    "problem_url": "https://codeforces.com/contest/1857/problem/A",
+    "submission_id": "CF222201032",
+    "submission_url": "https://codeforces.com/contest/1857/submission/222201032",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/07/2023 18:03"
+  },
   "CF222248987": {
     "contest_id": 1872,
     "language": "Python 3",
